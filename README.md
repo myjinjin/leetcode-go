@@ -4,6 +4,7 @@
 
 - [344. Reverse String](./leetcode/344-Reverse-String/README.md)
 - [394. Decode String](./leetcode/394-Decode-String/README.md)
+- [649. Dota2 Senate](./leetcode/649-Dota2-Senate/README.md)
 - [735. Asteroid Collision](./leetcode/735-Asteroid-Collision/README.md)
 - [933. Number of Recent Calls](./leetcode/933-Number-of-Recent-Calls/README.md)
 - [1657. Determine if Two Strings Are Close](./leetcode/1657-Determine-if-Two-Strings-Are-Close/README.md)
