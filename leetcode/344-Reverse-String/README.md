@@ -1,4 +1,4 @@
-# [344. Reverse String](https://leetcode.com/problems/reverse-string/submissions/1274942653/)
+# [344. Reverse String](https://leetcode.com/problems/reverse-string/)
 
 ## Problem
 

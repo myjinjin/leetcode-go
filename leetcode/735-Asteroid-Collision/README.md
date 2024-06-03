@@ -1,4 +1,4 @@
-# [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/submissions/1276164777)
+# [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
 
 ## Problem
 
