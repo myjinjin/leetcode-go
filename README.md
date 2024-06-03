@@ -2,6 +2,7 @@
 
 ## Problem Solutions
 
+- [328. Odd Even Linked List](./leetcode/328-Odd-Even-Linked-List/README.md)
 - [344. Reverse String](./leetcode/344-Reverse-String/README.md)
 - [394. Decode String](./leetcode/394-Decode-String/README.md)
 - [649. Dota2 Senate](./leetcode/649-Dota2-Senate/README.md)
