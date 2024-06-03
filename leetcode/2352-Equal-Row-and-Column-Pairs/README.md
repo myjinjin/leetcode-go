@@ -36,10 +36,42 @@ Constraints:
 
 - `n == grid.length == grid[i].length`
 - `1 <= n <= 200`
-- `1 <= grid[i][j] <= 105`
+- `1 <= grid[i][j] <= 10^5`
 
 ## Solution
 
 ```go
+
+func equalPairs(grid [][]int) int {
+	n := len(grid)
+	rowStrings := make(map[string]int)
+
+	var sb strings.Builder
+	for row := 0; row < n; row++ {
+		sb.Reset()
+		for col := 0; col < n; col++ {
+			if col > 0 {
+				sb.WriteString(",")
+			}
+			sb.WriteString(strconv.Itoa(grid[row][col]))
+		}
+		rowStrings[sb.String()]++
+	}
+
+	count := 0
+	for col := 0; col < n; col++ {
+		sb.Reset()
+		for row := 0; row < n; row++ {
+			if row > 0 {
+				sb.WriteString(",")
+			}
+			sb.WriteString(strconv.Itoa(grid[row][col]))
+		}
+		if v, ok := rowStrings[sb.String()]; ok {
+			count += v
+		}
+	}
+	return count
+}
 
 ```
