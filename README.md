@@ -2,6 +2,7 @@
 
 ## Problem Solutions
 
+- [104. Maximum Depth of Binary Tree](./leetcode/104-Maximum-Depth-of-Binary-Tree/README.md)
 - [206. Reverse Linked List](./leetcode/206-Reverse-Linked-List/README.md)
 - [328. Odd Even Linked List](./leetcode/328-Odd-Even-Linked-List/README.md)
 - [344. Reverse String](./leetcode/344-Reverse-String/README.md)
