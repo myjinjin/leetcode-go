@@ -12,6 +12,7 @@
 - [409. Longest Palindrome](./leetcode/409-Longest-Palindrome/README.md)
 - [437. Path Sum III](./leetcode/437-Path-Sum-III/README.md)
 - [649. Dota2 Senate](./leetcode/649-Dota2-Senate/README.md)
+- [700. Search in a Binary Search Tree](./leetcode/700-Search-in-a-Binary-Search-Tree/README.md)
 - [735. Asteroid Collision](./leetcode/735-Asteroid-Collision/README.md)
 - [872. Leaf-Similar Trees](./leetcode/872-Leaf-Similar-Trees/README.md)
 - [933. Number of Recent Calls](./leetcode/933-Number-of-Recent-Calls/README.md)
