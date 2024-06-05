@@ -23,6 +23,7 @@
 - [1161. Maximum Level Sum of a Binary Tree](./leetcode/1161-Maximum-Level-Sum-of-a-Binary-Tree/README.md)
 - [1372. Longest ZigZag Path in a Binary Tree](./leetcode/1372-Longest-ZigZag-Path-in-a-Binary-Tree/README.md)
 - [1448. Count Good Nodes in Binary Tree](./leetcode/1448-Count-Good-Nodes-in-Binary-Tree/README.md)
+- [1466. Reorder Routes to Make All Paths Lead to the City Zero](./leetcode/1466-Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero/README.md)
 - [1657. Determine if Two Strings Are Close](./leetcode/1657-Determine-if-Two-Strings-Are-Close/README.md)
 - [2095. Delete the Middle Node of a Linked List](./leetcode/2095-Delete-the-Middle-Node-of-a-Linked-List/README.md)
 - [2130. Maximum Twin Sum of a Linked List](./leetcode/2130-Maximum-Twin-Sum-of-a-Linked-List/README.md)
