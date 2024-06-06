@@ -18,6 +18,7 @@
 - [700. Search in a Binary Search Tree](./leetcode/700-Search-in-a-Binary-Search-Tree/README.md)
 - [735. Asteroid Collision](./leetcode/735-Asteroid-Collision/README.md)
 - [841. Keys and Rooms](./leetcode/841-Keys-and-Rooms/README.md)
+- [846. Hand of Straights](./leetcode/846-Hand-of-Straights/README.md)
 - [872. Leaf-Similar Trees](./leetcode/872-Leaf-Similar-Trees/README.md)
 - [933. Number of Recent Calls](./leetcode/933-Number-of-Recent-Calls/README.md)
 - [1002. Find Common Characters](./leetcode/1002-Find-Common-Characters/README.md)
