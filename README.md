@@ -23,6 +23,7 @@
 - [846. Hand of Straights](./leetcode/846-Hand-of-Straights/README.md)
 - [872. Leaf-Similar Trees](./leetcode/872-Leaf-Similar-Trees/README.md)
 - [933. Number of Recent Calls](./leetcode/933-Number-of-Recent-Calls/README.md)
+- [974. Subarray Sums Divisible by K](./leetcode/974-Subarray-Sums-Divisible-by-K/README.md)
 - [1002. Find Common Characters](./leetcode/1002-Find-Common-Characters/README.md)
 - [1161. Maximum Level Sum of a Binary Tree](./leetcode/1161-Maximum-Level-Sum-of-a-Binary-Tree/README.md)
 - [1372. Longest ZigZag Path in a Binary Tree](./leetcode/1372-Longest-ZigZag-Path-in-a-Binary-Tree/README.md)
