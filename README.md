@@ -26,6 +26,7 @@
 - [974. Subarray Sums Divisible by K](./leetcode/974-Subarray-Sums-Divisible-by-K/README.md)
 - [1002. Find Common Characters](./leetcode/1002-Find-Common-Characters/README.md)
 - [1051. Height Checker](./leetcode/1051-Height-Checker/README.md)
+- [1122. Relative Sort Array](./leetcode/1122-Relative-Sort-Array/README.md)
 - [1161. Maximum Level Sum of a Binary Tree](./leetcode/1161-Maximum-Level-Sum-of-a-Binary-Tree/README.md)
 - [1372. Longest ZigZag Path in a Binary Tree](./leetcode/1372-Longest-ZigZag-Path-in-a-Binary-Tree/README.md)
 - [1448. Count Good Nodes in Binary Tree](./leetcode/1448-Count-Good-Nodes-in-Binary-Tree/README.md)
