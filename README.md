@@ -2,6 +2,7 @@
 
 ## Problem Solutions
 
+- [75. Sort Colors](./leetcode/75-Sort-Colors/README.md)
 - [104. Maximum Depth of Binary Tree](./leetcode/104-Maximum-Depth-of-Binary-Tree/README.md)
 - [199. Binary Tree Right Side View](./leetcode/199-Binary-Tree-Right-Side-View/README.md)
 - [206. Reverse Linked List](./leetcode/206-Reverse-Linked-List/README.md)
