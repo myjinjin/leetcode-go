@@ -33,6 +33,7 @@
 - [1448. Count Good Nodes in Binary Tree](./leetcode/1448-Count-Good-Nodes-in-Binary-Tree/README.md)
 - [1466. Reorder Routes to Make All Paths Lead to the City Zero](./leetcode/1466-Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero/README.md)
 - [1657. Determine if Two Strings Are Close](./leetcode/1657-Determine-if-Two-Strings-Are-Close/README.md)
+- [1926. Nearest Exit from Entrance in Maze](./leetcode/1926-Nearest-Exit-from-Entrance-in-Maze/README.md)
 - [2095. Delete the Middle Node of a Linked List](./leetcode/2095-Delete-the-Middle-Node-of-a-Linked-List/README.md)
 - [2130. Maximum Twin Sum of a Linked List](./leetcode/2130-Maximum-Twin-Sum-of-a-Linked-List/README.md)
 - [2352. Equal Row and Column Pairs](./leetcode/2352-Equal-Row-and-Column-Pairs/README.md)
