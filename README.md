@@ -25,6 +25,7 @@
 - [872. Leaf-Similar Trees](./leetcode/872-Leaf-Similar-Trees/README.md)
 - [933. Number of Recent Calls](./leetcode/933-Number-of-Recent-Calls/README.md)
 - [974. Subarray Sums Divisible by K](./leetcode/974-Subarray-Sums-Divisible-by-K/README.md)
+- [994. Rotting Oranges](./leetcode/994-Rotting-Oranges/README.md)
 - [1002. Find Common Characters](./leetcode/1002-Find-Common-Characters/README.md)
 - [1051. Height Checker](./leetcode/1051-Height-Checker/README.md)
 - [1122. Relative Sort Array](./leetcode/1122-Relative-Sort-Array/README.md)
