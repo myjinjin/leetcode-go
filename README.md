@@ -39,6 +39,7 @@
 - [1926. Nearest Exit from Entrance in Maze](./leetcode/1926-Nearest-Exit-from-Entrance-in-Maze/README.md)
 - [2095. Delete the Middle Node of a Linked List](./leetcode/2095-Delete-the-Middle-Node-of-a-Linked-List/README.md)
 - [2130. Maximum Twin Sum of a Linked List](./leetcode/2130-Maximum-Twin-Sum-of-a-Linked-List/README.md)
+- [2300. Successful Pairs of Spells and Potions](./leetcode/2300-Successful-Pairs-of-Spells-and-Potions/README.md)
 - [2336. Smallest Number in Infinite Set](./leetcode/2336-Smallest-Number-in-Infinite-Set/README.md)
 - [2352. Equal Row and Column Pairs](./leetcode/2352-Equal-Row-and-Column-Pairs/README.md)
 - [2390. Removing Stars From a String](./leetcode/2390-Removing-Stars-From-a-String/README.md)
