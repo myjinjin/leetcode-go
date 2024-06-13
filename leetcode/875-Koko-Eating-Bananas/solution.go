@@ -1,7 +1,7 @@
 package leetcode
 
 func minEatingSpeed(piles []int, h int) int {
-	kMin := 0
+	kMin := 1
 	kMax := max(piles)
 
 	for kMin < kMax {
