@@ -4,6 +4,7 @@
 
 - [75. Sort Colors](./leetcode/75-Sort-Colors/README.md)
 - [104. Maximum Depth of Binary Tree](./leetcode/104-Maximum-Depth-of-Binary-Tree/README.md)
+- [162. Find Peak Element](./leetcode/162-Find-Peak-Element/README.md)
 - [199. Binary Tree Right Side View](./leetcode/199-Binary-Tree-Right-Side-View/README.md)
 - [206. Reverse Linked List](./leetcode/206-Reverse-Linked-List/README.md)
 - [215. Kth Largest Element in an Array](./leetcode/215-Kth-Largest-Element-in-an-Array/README.md)
