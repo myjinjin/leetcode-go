@@ -25,6 +25,7 @@
 - [649. Dota2 Senate](./leetcode/649-Dota2-Senate/README.md)
 - [700. Search in a Binary Search Tree](./leetcode/700-Search-in-a-Binary-Search-Tree/README.md)
 - [735. Asteroid Collision](./leetcode/735-Asteroid-Collision/README.md)
+- [746. Min Cost Climbing Stairs](./leetcode/746-Min-Cost-Climbing-Stairs/README.md)
 - [841. Keys and Rooms](./leetcode/841-Keys-and-Rooms/README.md)
 - [846. Hand of Straights](./leetcode/846-Hand-of-Straights/README.md)
 - [872. Leaf-Similar Trees](./leetcode/872-Leaf-Similar-Trees/README.md)
