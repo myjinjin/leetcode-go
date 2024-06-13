@@ -2,6 +2,7 @@
 
 ## Problem Solutions
 
+- [17. Letter Combinations of a Phone Number](./leetcode/17-Letter-Combinations-of-a-Phone-Number/README.md)
 - [75. Sort Colors](./leetcode/75-Sort-Colors/README.md)
 - [104. Maximum Depth of Binary Tree](./leetcode/104-Maximum-Depth-of-Binary-Tree/README.md)
 - [162. Find Peak Element](./leetcode/162-Find-Peak-Element/README.md)
