@@ -10,6 +10,7 @@
 - [236. Lowest Common Ancestor of a Binary Tree](./leetcode/236-Lowest-Common-Ancestor-of-a-Binary-Tree/README.md)
 - [328. Odd Even Linked List](./leetcode/328-Odd-Even-Linked-List/README.md)
 - [344. Reverse String](./leetcode/344-Reverse-String/README.md)
+- [374. Guess Number Higher or Lower](./leetcode/374-Guess-Number-Higher-or-Lower/README.md)
 - [394. Decode String](./leetcode/394-Decode-String/README.md)
 - [399. Evaluate Division](./leetcode/399-Evaluate-Division/README.md)
 - [409. Longest Palindrome](./leetcode/409-Longest-Palindrome/README.md)
