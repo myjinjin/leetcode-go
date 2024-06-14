@@ -32,6 +32,7 @@
 - [872. Leaf-Similar Trees](./leetcode/872-Leaf-Similar-Trees/README.md)
 - [875. Koko Eating Bananas](./leetcode/875-Koko-Eating-Bananas/README.md)
 - [933. Number of Recent Calls](./leetcode/933-Number-of-Recent-Calls/README.md)
+- [945. Minimum Increment to Make Array Unique](./leetcode/945-Minimum-Increment-to-Make-Array-Unique/README.md)
 - [974. Subarray Sums Divisible by K](./leetcode/974-Subarray-Sums-Divisible-by-K/README.md)
 - [994. Rotting Oranges](./leetcode/994-Rotting-Oranges/README.md)
 - [1002. Find Common Characters](./leetcode/1002-Find-Common-Characters/README.md)
