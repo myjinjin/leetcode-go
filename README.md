@@ -23,6 +23,7 @@
 - [450. Delete Node in a BST](./leetcode/450-Delete-Node-in-a-BST/README.md)
 - [523. Continuous Subarray Sum](./leetcode/523-Continuous-Subarray-Sum/README.md)
 - [547. Number of Provinces](./leetcode/547-Number-of-Provinces/README.md)
+- [633. Sum of Square Numbers](./leetcode/633-Sum-of-Square-Numbers/README.md)
 - [648. Replace Words](./leetcode/648-Replace-Words/README.md)
 - [649. Dota2 Senate](./leetcode/649-Dota2-Senate/README.md)
 - [700. Search in a Binary Search Tree](./leetcode/700-Search-in-a-Binary-Search-Tree/README.md)
