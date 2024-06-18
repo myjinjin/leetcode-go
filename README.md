@@ -7,6 +7,7 @@
 - [72. Edit Distance](./leetcode/72-Edit-Distance/README.md)
 - [75. Sort Colors](./leetcode/75-Sort-Colors/README.md)
 - [104. Maximum Depth of Binary Tree](./leetcode/104-Maximum-Depth-of-Binary-Tree/README.md)
+- [136. Single Number](./leetcode/136-Single-Number/README.md)
 - [162. Find Peak Element](./leetcode/162-Find-Peak-Element/README.md)
 - [198. House Robber](./leetcode/198-House-Robber/README.md)
 - [199. Binary Tree Right Side View](./leetcode/199-Binary-Tree-Right-Side-View/README.md)
