@@ -54,6 +54,7 @@
 - [1372. Longest ZigZag Path in a Binary Tree](./leetcode/1372-Longest-ZigZag-Path-in-a-Binary-Tree/README.md)
 - [1448. Count Good Nodes in Binary Tree](./leetcode/1448-Count-Good-Nodes-in-Binary-Tree/README.md)
 - [1466. Reorder Routes to Make All Paths Lead to the City Zero](./leetcode/1466-Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero/README.md)
+- [1482. Minimum Number of Days to Make m Bouquets](./leetcode/1482-Minimum-Number-of-Days-to-Make-m-Bouquets/README.md)
 - [1657. Determine if Two Strings Are Close](./leetcode/1657-Determine-if-Two-Strings-Are-Close/README.md)
 - [1926. Nearest Exit from Entrance in Maze](./leetcode/1926-Nearest-Exit-from-Entrance-in-Maze/README.md)
 - [2037. Minimum Number of Moves to Seat Everyone](./leetcode/2037-Minimum-Number-of-Moves-to-Seat-Everyone/README.md)
