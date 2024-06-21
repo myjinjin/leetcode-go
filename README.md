@@ -51,6 +51,7 @@
 - [994. Rotting Oranges](./leetcode/994-Rotting-Oranges/README.md)
 - [1002. Find Common Characters](./leetcode/1002-Find-Common-Characters/README.md)
 - [1051. Height Checker](./leetcode/1051-Height-Checker/README.md)
+- [1052. Grumpy Bookstore Owner](./leetcode/1052-Grumpy-Bookstore-Owner/README.md)
 - [1122. Relative Sort Array](./leetcode/1122-Relative-Sort-Array/README.md)
 - [1143. Longest Common Subsequence](./leetcode/1143-Longest-Common-Subsequence/README.md)
 - [1161. Maximum Level Sum of a Binary Tree](./leetcode/1161-Maximum-Level-Sum-of-a-Binary-Tree/README.md)
