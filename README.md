@@ -4,6 +4,7 @@
 
 - [17. Letter Combinations of a Phone Number](./leetcode/17-Letter-Combinations-of-a-Phone-Number/README.md)
 - [22. Generate Parentheses](./leetcode/22-Generate-Parentheses/README.md)
+- [39. Combination Sum](./leetcode/39-Combination-Sum/README.md)
 - [62. Unique Paths](./leetcode/62-Unique-Paths/README.md)
 - [72. Edit Distance](./leetcode/72-Edit-Distance/README.md)
 - [75. Sort Colors](./leetcode/75-Sort-Colors/README.md)
