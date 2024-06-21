@@ -24,6 +24,7 @@
 - [394. Decode String](./leetcode/394-Decode-String/README.md)
 - [399. Evaluate Division](./leetcode/399-Evaluate-Division/README.md)
 - [409. Longest Palindrome](./leetcode/409-Longest-Palindrome/README.md)
+- [435. Non-overlapping Intervals](./leetcode/435-Non-overlapping-Intervals/README.md)
 - [437. Path Sum III](./leetcode/437-Path-Sum-III/README.md)
 - [450. Delete Node in a BST](./leetcode/450-Delete-Node-in-a-BST/README.md)
 - [523. Continuous Subarray Sum](./leetcode/523-Continuous-Subarray-Sum/README.md)
