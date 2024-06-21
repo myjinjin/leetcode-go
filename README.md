@@ -27,6 +27,7 @@
 - [435. Non-overlapping Intervals](./leetcode/435-Non-overlapping-Intervals/README.md)
 - [437. Path Sum III](./leetcode/437-Path-Sum-III/README.md)
 - [450. Delete Node in a BST](./leetcode/450-Delete-Node-in-a-BST/README.md)
+- [452. Minimum Number of Arrows to Burst Balloons](./leetcode/452-Minimum-Number-of-Arrows-to-Burst-Balloons/README.md)
 - [523. Continuous Subarray Sum](./leetcode/523-Continuous-Subarray-Sum/README.md)
 - [547. Number of Provinces](./leetcode/547-Number-of-Provinces/README.md)
 - [633. Sum of Square Numbers](./leetcode/633-Sum-of-Square-Numbers/README.md)
