@@ -36,6 +36,7 @@
 - [700. Search in a Binary Search Tree](./leetcode/700-Search-in-a-Binary-Search-Tree/README.md)
 - [714. Best Time to Buy and Sell Stock with Transaction Fee](./leetcode/714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee/README.md)
 - [735. Asteroid Collision](./leetcode/735-Asteroid-Collision/README.md)
+- [739. Daily Temperatures](./leetcode/739-Daily-Temperatures/README.md)
 - [746. Min Cost Climbing Stairs](./leetcode/746-Min-Cost-Climbing-Stairs/README.md)
 - [790. Domino and Tromino Tiling](./leetcode/790-Domino-and-Tromino-Tiling/README.md)
 - [826. Most Profit Assigning Work](./leetcode/826-Most-Profit-Assigning-Work/README.md)
