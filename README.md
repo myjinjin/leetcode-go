@@ -13,6 +13,7 @@
 - [79. Word Search](./leetcode/79-Word-Search/README.md)
 - [83. Remove Duplicates from Sorted List](./leetcode/83-Remove-Duplicates-from-Sorted-List/README.md)
 - [104. Maximum Depth of Binary Tree](./leetcode/104-Maximum-Depth-of-Binary-Tree/README.md)
+- [131. Palindrome Partitioning](./leetcode/131-Palindrome-Partitioning/README.md)
 - [136. Single Number](./leetcode/136-Single-Number/README.md)
 - [162. Find Peak Element](./leetcode/162-Find-Peak-Element/README.md)
 - [198. House Robber](./leetcode/198-House-Robber/README.md)
