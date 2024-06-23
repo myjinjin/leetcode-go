@@ -11,6 +11,7 @@
 - [46. Permutations](./leetcode/46-Permutations/README.md)
 - [62. Unique Paths](./leetcode/62-Unique-Paths/README.md)
 - [72. Edit Distance](./leetcode/72-Edit-Distance/README.md)
+- [74. Search a 2D Matrix](./leetcode/74-Search-a-2D-Matrix/README.md)
 - [75. Sort Colors](./leetcode/75-Sort-Colors/README.md)
 - [78. Subsets](./leetcode/78-Subsets/README.md)
 - [79. Word Search](./leetcode/79-Word-Search/README.md)
