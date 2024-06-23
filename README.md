@@ -17,6 +17,7 @@
 - [79. Word Search](./leetcode/79-Word-Search/README.md)
 - [83. Remove Duplicates from Sorted List](./leetcode/83-Remove-Duplicates-from-Sorted-List/README.md)
 - [94. Binary Tree Inorder Traversal](./leetcode/94-Binary-Tree-Inorder-Traversal/README.md)
+- [98. Validate Binary Search Tree](./leetcode/98-Validate-Binary-Search-Tree/README.md)
 - [104. Maximum Depth of Binary Tree](./leetcode/104-Maximum-Depth-of-Binary-Tree/README.md)
 - [131. Palindrome Partitioning](./leetcode/131-Palindrome-Partitioning/README.md)
 - [136. Single Number](./leetcode/136-Single-Number/README.md)
