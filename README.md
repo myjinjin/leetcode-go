@@ -21,6 +21,7 @@
 - [101. Symmetric Tree](./leetcode/101-Symmetric-Tree/README.md)
 - [102. Binary Tree Level Order Traversal](./leetcode/102-Binary-Tree-Level-Order-Traversal/README.md)
 - [104. Maximum Depth of Binary Tree](./leetcode/104-Maximum-Depth-of-Binary-Tree/README.md)
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](./leetcode/105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/README.md)
 - [131. Palindrome Partitioning](./leetcode/131-Palindrome-Partitioning/README.md)
 - [136. Single Number](./leetcode/136-Single-Number/README.md)
 - [153. Find Minimum in Rotated Sorted Array](./leetcode/153-Find-Minimum-in-Rotated-Sorted-Array/README.md)
