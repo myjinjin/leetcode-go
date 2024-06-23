@@ -5,6 +5,7 @@
 - [17. Letter Combinations of a Phone Number](./leetcode/17-Letter-Combinations-of-a-Phone-Number/README.md)
 - [22. Generate Parentheses](./leetcode/22-Generate-Parentheses/README.md)
 - [33. Search in Rotated Sorted Array](./leetcode/33-Search-in-Rotated-Sorted-Array/README.md)
+- [34. Find First and Last Position of Element in Sorted Array](./leetcode/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array/READMD.md)
 - [39. Combination Sum](./leetcode/39-Combination-Sum/README.md)
 - [46. Permutations](./leetcode/46-Permutations/README.md)
 - [62. Unique Paths](./leetcode/62-Unique-Paths/README.md)
