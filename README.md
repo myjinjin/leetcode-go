@@ -35,6 +35,7 @@
 - [215. Kth Largest Element in an Array](./leetcode/215-Kth-Largest-Element-in-an-Array/README.md)
 - [216. Combination Sum III](./leetcode/216-Combination-Sum-III/README.md)
 - [226. Invert Binary Tree](./leetcode/226-Invert-Binary-Tree/README.md)
+- [230. Kth Smallest Element in a BST](./leetcode/230-Kth-Smallest-Element-in-a-BST/README.md)
 - [236. Lowest Common Ancestor of a Binary Tree](./leetcode/236-Lowest-Common-Ancestor-of-a-Binary-Tree/README.md)
 - [328. Odd Even Linked List](./leetcode/328-Odd-Even-Linked-List/README.md)
 - [338. Counting Bits](./leetcode/338-Counting-Bits/README.md)
