@@ -2,6 +2,7 @@
 
 ## Problem Solutions
 
+- [5. Longest Palindromic Substring](./leetcode/5-Longest-Palindromic-Substring/README.md)
 - [17. Letter Combinations of a Phone Number](./leetcode/17-Letter-Combinations-of-a-Phone-Number/README.md)
 - [22. Generate Parentheses](./leetcode/22-Generate-Parentheses/README.md)
 - [33. Search in Rotated Sorted Array](./leetcode/33-Search-in-Rotated-Sorted-Array/README.md)
