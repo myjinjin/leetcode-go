@@ -23,6 +23,7 @@
 - [104. Maximum Depth of Binary Tree](./leetcode/104-Maximum-Depth-of-Binary-Tree/README.md)
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](./leetcode/105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/README.md)
 - [108. Convert Sorted Array to Binary Search Tree](./leetcode/108-Convert-Sorted-Array-to-Binary-Search-Tree/README.md)
+- [114. Flatten Binary Tree to Linked List](./leetcode/114-Flatten-Binary-Tree-to-Linked-List/README.md)
 - [131. Palindrome Partitioning](./leetcode/131-Palindrome-Partitioning/README.md)
 - [136. Single Number](./leetcode/136-Single-Number/README.md)
 - [153. Find Minimum in Rotated Sorted Array](./leetcode/153-Find-Minimum-in-Rotated-Sorted-Array/README.md)
