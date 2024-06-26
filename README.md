@@ -86,6 +86,7 @@
 - [1268. Search Suggestions System](./leetcode/1268-Search-Suggestions-System/README.md)
 - [1318. Minimum Flips to Make a OR b Equal to c](./leetcode/1318-Minimum-Flips-to-Make-a-OR-b-Equal-to-c/README.md)
 - [1372. Longest ZigZag Path in a Binary Tree](./leetcode/1372-Longest-ZigZag-Path-in-a-Binary-Tree/README.md)
+- [1382. Balance a Binary Search Tree](./leetcode/1382-Balance-a-Binary-Search-Tree/README.md)
 - [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./leetcode/1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit/README.md)
 - [1448. Count Good Nodes in Binary Tree](./leetcode/1448-Count-Good-Nodes-in-Binary-Tree/README.md)
 - [1466. Reorder Routes to Make All Paths Lead to the City Zero](./leetcode/1466-Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero/README.md)
