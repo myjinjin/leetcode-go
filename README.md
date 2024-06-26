@@ -31,6 +31,7 @@
 - [131. Palindrome Partitioning](./leetcode/131-Palindrome-Partitioning/README.md)
 - [136. Single Number](./leetcode/136-Single-Number/README.md)
 - [139. Word Break](./leetcode/139-Word-Break/README.md)
+- [152. Maximum Product Subarray](./leetcode/152-Maximum-Product-Subarray/README.md)
 - [153. Find Minimum in Rotated Sorted Array](./leetcode/153-Find-Minimum-in-Rotated-Sorted-Array/README.md)
 - [162. Find Peak Element](./leetcode/162-Find-Peak-Element/README.md)
 - [198. House Robber](./leetcode/198-House-Robber/README.md)
