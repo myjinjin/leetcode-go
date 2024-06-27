@@ -36,6 +36,7 @@
 - [162. Find Peak Element](./leetcode/162-Find-Peak-Element/README.md)
 - [198. House Robber](./leetcode/198-House-Robber/README.md)
 - [199. Binary Tree Right Side View](./leetcode/199-Binary-Tree-Right-Side-View/README.md)
+- [200. Number of Islands](./leetcode/200-Number-of-Islands/README.md)
 - [206. Reverse Linked List](./leetcode/206-Reverse-Linked-List/README.md)
 - [208. Implement Trie (Prefix Tree)](./leetcode/208-Implement-Trie-Prefix-Tree/README.md)
 - [215. Kth Largest Element in an Array](./leetcode/215-Kth-Largest-Element-in-an-Array/README.md)
