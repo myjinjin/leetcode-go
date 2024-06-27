@@ -102,6 +102,7 @@
 - [1482. Minimum Number of Days to Make m Bouquets](./leetcode/1482-Minimum-Number-of-Days-to-Make-m-Bouquets/README.md)
 - [1552. Magnetic Force Between Two Balls](./leetcode/1552-Magnetic-Force-Between-Two-Balls/README.md)
 - [1657. Determine if Two Strings Are Close](./leetcode/1657-Determine-if-Two-Strings-Are-Close/README.md)
+- [1791. Find Center of Star Graph](./leetcode/1791-Find-Center-of-Star-Graph/README.md)
 - [1926. Nearest Exit from Entrance in Maze](./leetcode/1926-Nearest-Exit-from-Entrance-in-Maze/README.md)
 - [2037. Minimum Number of Moves to Seat Everyone](./leetcode/2037-Minimum-Number-of-Moves-to-Seat-Everyone/README.md)
 - [2095. Delete the Middle Node of a Linked List](./leetcode/2095-Delete-the-Middle-Node-of-a-Linked-List/README.md)
