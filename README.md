@@ -30,6 +30,7 @@
 - [108. Convert Sorted Array to Binary Search Tree](./leetcode/108-Convert-Sorted-Array-to-Binary-Search-Tree/README.md)
 - [114. Flatten Binary Tree to Linked List](./leetcode/114-Flatten-Binary-Tree-to-Linked-List/README.md)
 - [118. Pascal's Triangle](./leetcode/118-Pascals-Triangle/README.md)
+- [121. Best Time to Buy and Sell Stock](./leetcode/121-Best-Time-to-Buy-and-Sell-Stock/README.md)
 - [131. Palindrome Partitioning](./leetcode/131-Palindrome-Partitioning/README.md)
 - [136. Single Number](./leetcode/136-Single-Number/README.md)
 - [139. Word Break](./leetcode/139-Word-Break/README.md)
