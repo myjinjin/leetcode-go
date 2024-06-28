@@ -74,6 +74,7 @@
 - [735. Asteroid Collision](./leetcode/735-Asteroid-Collision/README.md)
 - [739. Daily Temperatures](./leetcode/739-Daily-Temperatures/README.md)
 - [746. Min Cost Climbing Stairs](./leetcode/746-Min-Cost-Climbing-Stairs/README.md)
+- [763. Partition Labels](./leetcode/763-Partition-Labels/README.md)
 - [790. Domino and Tromino Tiling](./leetcode/790-Domino-and-Tromino-Tiling/README.md)
 - [826. Most Profit Assigning Work](./leetcode/826-Most-Profit-Assigning-Work/README.md)
 - [841. Keys and Rooms](./leetcode/841-Keys-and-Rooms/README.md)
