@@ -107,6 +107,7 @@
 - [2037. Minimum Number of Moves to Seat Everyone](./leetcode/2037-Minimum-Number-of-Moves-to-Seat-Everyone/README.md)
 - [2095. Delete the Middle Node of a Linked List](./leetcode/2095-Delete-the-Middle-Node-of-a-Linked-List/README.md)
 - [2130. Maximum Twin Sum of a Linked List](./leetcode/2130-Maximum-Twin-Sum-of-a-Linked-List/README.md)
+- [2285. Maximum Total Importance of Roads](./leetcode/2285-Maximum-Total-Importance-of-Roads/README.md)
 - [2300. Successful Pairs of Spells and Potions](./leetcode/2300-Successful-Pairs-of-Spells-and-Potions/README.md)
 - [2336. Smallest Number in Infinite Set](./leetcode/2336-Smallest-Number-in-Infinite-Set/README.md)
 - [2352. Equal Row and Column Pairs](./leetcode/2352-Equal-Row-and-Column-Pairs/README.md)
