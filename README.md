@@ -12,6 +12,7 @@
 - [39. Combination Sum](./leetcode/39-Combination-Sum/README.md)
 - [45. Jump Game II](./leetcode/45-Jump-Game-II/README.md)
 - [46. Permutations](./leetcode/46-Permutations/README.md)
+- [49. Group Anagrams](./leetcode/49-Group-Anagrams/README.md)
 - [55. Jump Game](./leetcode/55-Jump-Game/README.md)
 - [62. Unique Paths](./leetcode/62-Unique-Paths/README.md)
 - [64. Minimum Path Sum](./leetcode/64-Minimum-Path-Sum/README.md)
