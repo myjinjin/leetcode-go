@@ -44,6 +44,7 @@
 - [139. Word Break](./leetcode/139-Word-Break/README.md)
 - [141. Linked List Cycle](./leetcode/141-Linked-List-Cycle/README.md)
 - [142. Linked List Cycle II](./leetcode/142-Linked-List-Cycle-II/README.md)
+- [146. LRU Cache](./leetcode/146-LRU-Cache/README.md)
 - [152. Maximum Product Subarray](./leetcode/152-Maximum-Product-Subarray/README.md)
 - [153. Find Minimum in Rotated Sorted Array](./leetcode/153-Find-Minimum-in-Rotated-Sorted-Array/README.md)
 - [162. Find Peak Element](./leetcode/162-Find-Peak-Element/README.md)
