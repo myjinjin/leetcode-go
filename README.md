@@ -48,6 +48,7 @@
 - [148. Sort List](./leetcode/148-Sort-List/README.md)
 - [152. Maximum Product Subarray](./leetcode/152-Maximum-Product-Subarray/README.md)
 - [153. Find Minimum in Rotated Sorted Array](./leetcode/153-Find-Minimum-in-Rotated-Sorted-Array/README.md)
+- [160. Intersection of Two Linked Lists](./leetcode/160-Intersection-of-Two-Linked-Lists/README.md)
 - [162. Find Peak Element](./leetcode/162-Find-Peak-Element/README.md)
 - [198. House Robber](./leetcode/198-House-Robber/README.md)
 - [199. Binary Tree Right Side View](./leetcode/199-Binary-Tree-Right-Side-View/README.md)
