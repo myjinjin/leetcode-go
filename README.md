@@ -4,6 +4,7 @@
 
 - [1. Two Sum](./leetcode/1-Two-Sum/README.md)
 - [2. Add Two Numbers](./leetcode/2-Add-Two-Numbers/README.md)
+- [3. Longest Substring Without Repeating Characters](./leetcode/3-Longest-Substring-Without-Repeating-Characters/README.md)
 - [5. Longest Palindromic Substring](./leetcode/5-Longest-Palindromic-Substring/README.md)
 - [17. Letter Combinations of a Phone Number](./leetcode/17-Letter-Combinations-of-a-Phone-Number/README.md)
 - [19. Remove Nth Node From End of List](./leetcode/19-Remove-Nth-Node-From-End-of-List/README.md)
