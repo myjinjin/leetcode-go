@@ -24,6 +24,7 @@
 - [64. Minimum Path Sum](./leetcode/64-Minimum-Path-Sum/README.md)
 - [70. Climbing Stairs](./leetcode/70-Climbing-Stairs/README.md)
 - [72. Edit Distance](./leetcode/72-Edit-Distance/README.md)
+- [73. Set Matrix Zeroes](./leetcode/73-Set-Matrix-Zeroes/README.md)
 - [74. Search a 2D Matrix](./leetcode/74-Search-a-2D-Matrix/README.md)
 - [75. Sort Colors](./leetcode/75-Sort-Colors/README.md)
 - [78. Subsets](./leetcode/78-Subsets/README.md)
