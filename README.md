@@ -14,6 +14,7 @@
 - [21. Merge Two Sorted Lists](./leetcode/21-Merge-Two-Sorted-Lists/README.md)
 - [22. Generate Parentheses](./leetcode/22-Generate-Parentheses/README.md)
 - [24. Swap Nodes in Pairs](./leetcode/24-Swap-Nodes-in-Pairs/README.md)
+- [31. Next Permutation](./leetcode/31-Next-Permutation/README.md)
 - [33. Search in Rotated Sorted Array](./leetcode/33-Search-in-Rotated-Sorted-Array/README.md)
 - [34. Find First and Last Position of Element in Sorted Array](./leetcode/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array/READMD.md)
 - [35. Search Insert Position](./leetcode/35-Search-Insert-Position/README.md)
