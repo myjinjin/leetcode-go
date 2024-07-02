@@ -8,6 +8,7 @@
 - [5. Longest Palindromic Substring](./leetcode/5-Longest-Palindromic-Substring/README.md)
 - [17. Letter Combinations of a Phone Number](./leetcode/17-Letter-Combinations-of-a-Phone-Number/README.md)
 - [19. Remove Nth Node From End of List](./leetcode/19-Remove-Nth-Node-From-End-of-List/README.md)
+- [20. Valid Parentheses](./leetcode/20-Valid-Parentheses/README.md)
 - [21. Merge Two Sorted Lists](./leetcode/21-Merge-Two-Sorted-Lists/README.md)
 - [22. Generate Parentheses](./leetcode/22-Generate-Parentheses/README.md)
 - [24. Swap Nodes in Pairs](./leetcode/24-Swap-Nodes-in-Pairs/README.md)
