@@ -74,6 +74,7 @@
 - [338. Counting Bits](./leetcode/338-Counting-Bits/README.md)
 - [344. Reverse String](./leetcode/344-Reverse-String/README.md)
 - [347. Top K Frequent Elements](./leetcode/347-Top-K-Frequent-Elements/README.md)
+- [350. Intersection of Two Arrays II](./leetcode/350-Intersection-of-Two-Arrays-II/README.md)
 - [374. Guess Number Higher or Lower](./leetcode/374-Guess-Number-Higher-or-Lower/README.md)
 - [394. Decode String](./leetcode/394-Decode-String/README.md)
 - [399. Evaluate Division](./leetcode/399-Evaluate-Division/README.md)
