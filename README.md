@@ -61,6 +61,7 @@
 - [155. Min Stack](./leetcode/155-Min-Stack/README.md)
 - [160. Intersection of Two Linked Lists](./leetcode/160-Intersection-of-Two-Linked-Lists/README.md)
 - [162. Find Peak Element](./leetcode/162-Find-Peak-Element/README.md)
+- [169. Majority Element](./leetcode/169-Majority-Element/README.md)
 - [198. House Robber](./leetcode/198-House-Robber/README.md)
 - [199. Binary Tree Right Side View](./leetcode/199-Binary-Tree-Right-Side-View/README.md)
 - [200. Number of Islands](./leetcode/200-Number-of-Islands/README.md)
