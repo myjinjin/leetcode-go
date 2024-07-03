@@ -79,6 +79,7 @@
 - [240. Search a 2D Matrix II](./leetcode/240-Search-a-2D-Matrix-II/README.md)
 - [279. Perfect Squares](./leetcode/279-Perfect-Squares/README.md)
 - [283. Move Zeroes](./leetcode/283-Move-Zeroes/README.md)
+- [287. Find the Duplicate Number](./leetcode/287-Find-the-Duplicate-Number/README.md)
 - [300. Longest Increasing Subsequence](./leetcode/300-Longest-Increasing-Subsequence/README.md)
 - [322. Coin Change](./leetcode/322-Coin-Change/README.md)
 - [328. Odd Even Linked List](./leetcode/328-Odd-Even-Linked-List/README.md)
