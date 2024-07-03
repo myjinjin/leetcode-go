@@ -26,6 +26,7 @@
 - [53. Maximum Subarray](./leetcode/53-Maximum-Subarray/README.md)
 - [54. Spiral Matrix](./leetcode/54-Spiral-Matrix/README.md)
 - [55. Jump Game](./leetcode/55-Jump-Game/README.md)
+- [56. Merge Intervals](./leetcode/56-Merge-Intervals/README.md)
 - [62. Unique Paths](./leetcode/62-Unique-Paths/README.md)
 - [64. Minimum Path Sum](./leetcode/64-Minimum-Path-Sum/README.md)
 - [70. Climbing Stairs](./leetcode/70-Climbing-Stairs/README.md)
