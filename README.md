@@ -134,6 +134,7 @@
 - [1248. Count Number of Nice Subarrays](./leetcode/1248-Count-Number-of-Nice-Subarrays/README.md)
 - [1268. Search Suggestions System](./leetcode/1268-Search-Suggestions-System/README.md)
 - [1318. Minimum Flips to Make a OR b Equal to c](./leetcode/1318-Minimum-Flips-to-Make-a-OR-b-Equal-to-c/README.md)
+- [1351. Count Negative Numbers in a Sorted Matrix](./leetcode/1351-Count-Negative-Numbers-in-a-Sorted-Matrix/README.md)
 - [1372. Longest ZigZag Path in a Binary Tree](./leetcode/1372-Longest-ZigZag-Path-in-a-Binary-Tree/README.md)
 - [1382. Balance a Binary Search Tree](./leetcode/1382-Balance-a-Binary-Search-Tree/README.md)
 - [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./leetcode/1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit/README.md)
