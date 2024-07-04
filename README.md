@@ -147,6 +147,7 @@
 - [2037. Minimum Number of Moves to Seat Everyone](./leetcode/2037-Minimum-Number-of-Moves-to-Seat-Everyone/README.md)
 - [2095. Delete the Middle Node of a Linked List](./leetcode/2095-Delete-the-Middle-Node-of-a-Linked-List/README.md)
 - [2130. Maximum Twin Sum of a Linked List](./leetcode/2130-Maximum-Twin-Sum-of-a-Linked-List/README.md)
+- [2181. Merge Nodes in Between Zeros](./leetcode/2181-Merge-Nodes-in-Between-Zeros/README.md)
 - [2192. All Ancestors of a Node in a Directed Acyclic Graph](./leetcode/2192-All-Ancestors-of-a-Node-in-a-Directed-Acyclic-Graph/README.md)
 - [2285. Maximum Total Importance of Roads](./leetcode/2285-Maximum-Total-Importance-of-Roads/README.md)
 - [2300. Successful Pairs of Spells and Potions](./leetcode/2300-Successful-Pairs-of-Spells-and-Potions/README.md)
