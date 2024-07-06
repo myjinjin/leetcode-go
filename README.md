@@ -149,6 +149,7 @@
 - [1466. Reorder Routes to Make All Paths Lead to the City Zero](./leetcode/1466-Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero/README.md)
 - [1482. Minimum Number of Days to Make m Bouquets](./leetcode/1482-Minimum-Number-of-Days-to-Make-m-Bouquets/README.md)
 - [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](./leetcode/1509-Minimum-Difference-Between-Largest-and-Smallest-Value-in-Three-Moves/README.md)
+- [1539. Kth Missing Positive Number](./leetcode/1539-Kth-Missing-Positive-Number/README.md)
 - [1550. Three Consecutive Odds](./leetcode/1550-Three-Consecutive-Odds/README.md)
 - [1552. Magnetic Force Between Two Balls](./leetcode/1552-Magnetic-Force-Between-Two-Balls/README.md)
 - [1657. Determine if Two Strings Are Close](./leetcode/1657-Determine-if-Two-Strings-Are-Close/README.md)
