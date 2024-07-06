@@ -29,6 +29,7 @@
 - [56. Merge Intervals](./leetcode/56-Merge-Intervals/README.md)
 - [62. Unique Paths](./leetcode/62-Unique-Paths/README.md)
 - [64. Minimum Path Sum](./leetcode/64-Minimum-Path-Sum/README.md)
+- [69. Sqrt(x)](./leetcode/69-Sqrtx/README.md)
 - [70. Climbing Stairs](./leetcode/70-Climbing-Stairs/README.md)
 - [72. Edit Distance](./leetcode/72-Edit-Distance/README.md)
 - [73. Set Matrix Zeroes](./leetcode/73-Set-Matrix-Zeroes/README.md)
