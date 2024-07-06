@@ -123,6 +123,7 @@
 - [826. Most Profit Assigning Work](./leetcode/826-Most-Profit-Assigning-Work/README.md)
 - [841. Keys and Rooms](./leetcode/841-Keys-and-Rooms/README.md)
 - [846. Hand of Straights](./leetcode/846-Hand-of-Straights/README.md)
+- [852. Peak Index in a Mountain Array](./leetcode/852-Peak-Index-in-a-Mountain-Array/README.md)
 - [872. Leaf-Similar Trees](./leetcode/872-Leaf-Similar-Trees/README.md)
 - [875. Koko Eating Bananas](./leetcode/875-Koko-Eating-Bananas/README.md)
 - [901. Online Stock Span](./leetcode/901-Online-Stock-Span/README.md)
