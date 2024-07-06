@@ -78,6 +78,7 @@
 - [236. Lowest Common Ancestor of a Binary Tree](./leetcode/236-Lowest-Common-Ancestor-of-a-Binary-Tree/README.md)
 - [238. Product of Array Except Self](./leetcode/238-Product-of-Array-Except-Self/README.md)
 - [240. Search a 2D Matrix II](./leetcode/240-Search-a-2D-Matrix-II/README.md)
+- [275. H-Index II](./leetcode/275-H-Index-II/README.md)
 - [278. First Bad Version](./leetcode/278-First-Bad-Version/README.md)
 - [279. Perfect Squares](./leetcode/279-Perfect-Squares/README.md)
 - [283. Move Zeroes](./leetcode/283-Move-Zeroes/README.md)
