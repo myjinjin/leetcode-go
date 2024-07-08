@@ -172,3 +172,4 @@
 - [2462. Total Cost to Hire K Workers](./leetcode/2462-Total-Cost-to-Hire-K-Workers/README.md)
 - [2486. Append Characters to String to Make Subsequence](./leetcode/2486-Append-Characters-to-String-to-Make-Subsequence/README.md)
 - [2542. Maximum Subsequence Score](./leetcode/2542-Maximum-Subsequence-Score/README.md)
+- [2582. Pass the Pillow](./leetcode/2582-Pass-the-Pillow/README.md)
