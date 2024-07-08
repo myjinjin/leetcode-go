@@ -108,6 +108,7 @@
 - [543. Diameter of Binary Tree](./leetcode/543-Diameter-of-Binary-Tree/README.md)
 - [547. Number of Provinces](./leetcode/547-Number-of-Provinces/README.md)
 - [560. Subarray Sum Equals K](./leetcode/560-Subarray-Sum-Equals-K/README.md)
+- [611. Valid Triangle Number](./leetcode/611-Valid-Triangle-Number/README.md)
 - [633. Sum of Square Numbers](./leetcode/633-Sum-of-Square-Numbers/README.md)
 - [648. Replace Words](./leetcode/648-Replace-Words/README.md)
 - [649. Dota2 Senate](./leetcode/649-Dota2-Senate/README.md)
