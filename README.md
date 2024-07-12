@@ -159,6 +159,7 @@
 - [1550. Three Consecutive Odds](./leetcode/1550-Three-Consecutive-Odds/README.md)
 - [1552. Magnetic Force Between Two Balls](./leetcode/1552-Magnetic-Force-Between-Two-Balls/README.md)
 - [1657. Determine if Two Strings Are Close](./leetcode/1657-Determine-if-Two-Strings-Are-Close/README.md)
+- [1717. Maximum Score From Removing Substrings](./leetcode/1717-Maximum-Score-From-Removing-Substrings/README.md)
 - [1791. Find Center of Star Graph](./leetcode/1791-Find-Center-of-Star-Graph/README.md)
 - [1823. Find the Winner of the Circular Game](./leetcode/1823-Find-the-Winner-of-the-Circular-Game/README.md)
 - [1926. Nearest Exit from Entrance in Maze](./leetcode/1926-Nearest-Exit-from-Entrance-in-Maze/README.md)
