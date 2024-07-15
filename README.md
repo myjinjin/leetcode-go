@@ -168,6 +168,7 @@
 - [2130. Maximum Twin Sum of a Linked List](./leetcode/2130-Maximum-Twin-Sum-of-a-Linked-List/README.md)
 - [2181. Merge Nodes in Between Zeros](./leetcode/2181-Merge-Nodes-in-Between-Zeros/README.md)
 - [2192. All Ancestors of a Node in a Directed Acyclic Graph](./leetcode/2192-All-Ancestors-of-a-Node-in-a-Directed-Acyclic-Graph/README.md)
+- [2196. Create Binary Tree From Descriptions](./leetcode/2196-Create-Binary-Tree-From-Descriptions/README.md)
 - [2285. Maximum Total Importance of Roads](./leetcode/2285-Maximum-Total-Importance-of-Roads/README.md)
 - [2300. Successful Pairs of Spells and Potions](./leetcode/2300-Successful-Pairs-of-Spells-and-Potions/README.md)
 - [2336. Smallest Number in Infinite Set](./leetcode/2336-Smallest-Number-in-Infinite-Set/README.md)
