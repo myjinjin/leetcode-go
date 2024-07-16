@@ -143,6 +143,7 @@
 - [1143. Longest Common Subsequence](./leetcode/1143-Longest-Common-Subsequence/README.md)
 - [1146. Snapshot Array](./leetcode/1146-Snapshot-Array/README.md)
 - [1161. Maximum Level Sum of a Binary Tree](./leetcode/1161-Maximum-Level-Sum-of-a-Binary-Tree/README.md)
+- [1190. Reverse Substrings Between Each Pair of Parentheses](./leetcode/1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses/README.md)
 - [1248. Count Number of Nice Subarrays](./leetcode/1248-Count-Number-of-Nice-Subarrays/README.md)
 - [1268. Search Suggestions System](./leetcode/1268-Search-Suggestions-System/README.md)
 - [1318. Minimum Flips to Make a OR b Equal to c](./leetcode/1318-Minimum-Flips-to-Make-a-OR-b-Equal-to-c/README.md)
