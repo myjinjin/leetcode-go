@@ -183,4 +183,5 @@
 - [2486. Append Characters to String to Make Subsequence](./leetcode/2486-Append-Characters-to-String-to-Make-Subsequence/README.md)
 - [2542. Maximum Subsequence Score](./leetcode/2542-Maximum-Subsequence-Score/README.md)
 - [2582. Pass the Pillow](./leetcode/2582-Pass-the-Pillow/README.md)
+- [2938. Separate Black and White Balls](./leetcode/2938-Separate-Black-and-White-Balls/README.md)
 - [3148. Maximum Difference Score in a Grid](./leetcode/3148-Maximum-Difference-Score-in-a-Grid/README.md)
