@@ -158,6 +158,7 @@
 - [1498. Number of Subsequences That Satisfy the Given Sum Condition](./leetcode/1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition/README.md)
 - [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](./leetcode/1509-Minimum-Difference-Between-Largest-and-Smallest-Value-in-Three-Moves/README.md)
 - [1518. Water Bottles](./leetcode/1518-Water-Bottles/README.md)
+- [1530. Number of Good Leaf Nodes Pairs](./leetcode/1530-Number-of-Good-Leaf-Nodes-Pairs/README.md)
 - [1539. Kth Missing Positive Number](./leetcode/1539-Kth-Missing-Positive-Number/README.md)
 - [1550. Three Consecutive Odds](./leetcode/1550-Three-Consecutive-Odds/README.md)
 - [1552. Magnetic Force Between Two Balls](./leetcode/1552-Magnetic-Force-Between-Two-Balls/README.md)
