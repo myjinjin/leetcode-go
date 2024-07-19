@@ -150,6 +150,7 @@
 - [1318. Minimum Flips to Make a OR b Equal to c](./leetcode/1318-Minimum-Flips-to-Make-a-OR-b-Equal-to-c/README.md)
 - [1351. Count Negative Numbers in a Sorted Matrix](./leetcode/1351-Count-Negative-Numbers-in-a-Sorted-Matrix/README.md)
 - [1372. Longest ZigZag Path in a Binary Tree](./leetcode/1372-Longest-ZigZag-Path-in-a-Binary-Tree/README.md)
+- [1380. Lucky Numbers in a Matrix](./leetcode/1380-Lucky-Numbers-in-a-Matrix/README.md)
 - [1382. Balance a Binary Search Tree](./leetcode/1382-Balance-a-Binary-Search-Tree/README.md)
 - [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./leetcode/1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit/README.md)
 - [1448. Count Good Nodes in Binary Tree](./leetcode/1448-Count-Good-Nodes-in-Binary-Tree/README.md)
