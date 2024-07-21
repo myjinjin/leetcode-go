@@ -183,6 +183,7 @@
 - [2336. Smallest Number in Infinite Set](./leetcode/2336-Smallest-Number-in-Infinite-Set/README.md)
 - [2352. Equal Row and Column Pairs](./leetcode/2352-Equal-Row-and-Column-Pairs/README.md)
 - [2390. Removing Stars From a String](./leetcode/2390-Removing-Stars-From-a-String/README.md)
+- [2392. Build a Matrix With Conditions](./leetcode/2392-Build-a-Matrix-With-Conditions/README.md)
 - [2462. Total Cost to Hire K Workers](./leetcode/2462-Total-Cost-to-Hire-K-Workers/README.md)
 - [2486. Append Characters to String to Make Subsequence](./leetcode/2486-Append-Characters-to-String-to-Make-Subsequence/README.md)
 - [2542. Maximum Subsequence Score](./leetcode/2542-Maximum-Subsequence-Score/README.md)
