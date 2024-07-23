@@ -166,6 +166,7 @@
 - [1550. Three Consecutive Odds](./leetcode/1550-Three-Consecutive-Odds/README.md)
 - [1552. Magnetic Force Between Two Balls](./leetcode/1552-Magnetic-Force-Between-Two-Balls/README.md)
 - [1605. Find Valid Matrix Given Row and Column Sums](./leetcode/1605-Find-Valid-Matrix-Given-Row-and-Column-Sums/README.md)
+- [1636. Sort Array by Increasing Frequency](./leetcode/1636-Sort-Array-by-Increasing-Frequency/README.md)
 - [1657. Determine if Two Strings Are Close](./leetcode/1657-Determine-if-Two-Strings-Are-Close/README.md)
 - [1717. Maximum Score From Removing Substrings](./leetcode/1717-Maximum-Score-From-Removing-Substrings/README.md)
 - [1780. Check if Number is a Sum of Powers of Three](./leetcode/1780-Check-if-Number-is-a-Sum-of-Powers-of-Three/README.md)
