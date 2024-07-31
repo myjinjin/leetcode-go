@@ -140,6 +140,7 @@
 - [1038. Binary Search Tree to Greater Sum Tree](./leetcode/1038-Binary-Search-Tree-to-Greater-Sum-Tree/README.md)
 - [1051. Height Checker](./leetcode/1051-Height-Checker/README.md)
 - [1052. Grumpy Bookstore Owner](./leetcode/1052-Grumpy-Bookstore-Owner/README.md)
+- [1105. Filling Bookcase Shelves](./leetcode/1105-Filling-Bookcase-Shelves/README.md)
 - [1110. Delete Nodes And Return Forest](./leetcode/1110-Delete-Nodes-And-Return-Forest/README.md)
 - [1122. Relative Sort Array](./leetcode/1122-Relative-Sort-Array/README.md)
 - [1137. N-th Tribonacci Number](./leetcode/1137-N-th-Tribonacci-Number/README.md)
