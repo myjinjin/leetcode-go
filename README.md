@@ -201,6 +201,7 @@
 - [2462. Total Cost to Hire K Workers](./leetcode/2462-Total-Cost-to-Hire-K-Workers/README.md)
 - [2486. Append Characters to String to Make Subsequence](./leetcode/2486-Append-Characters-to-String-to-Make-Subsequence/README.md)
 - [2542. Maximum Subsequence Score](./leetcode/2542-Maximum-Subsequence-Score/README.md)
+- [2575. Find the Divisibility Array of a String](./leetcode/2575-Find-the-Divisibility-Array-of-a-String/README.md)
 - [2582. Pass the Pillow](./leetcode/2582-Pass-the-Pillow/README.md)
 - [2658. Maximum Number of Fish in a Grid](./leetcode/2658-Maximum-Number-of-Fish-in-a-Grid/README.md)
 - [2678. Number of Senior Citizens](./leetcode/2678-Number-of-Senior-Citizens/README.md)
