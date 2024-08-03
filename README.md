@@ -158,6 +158,7 @@
 - [1380. Lucky Numbers in a Matrix](./leetcode/1380-Lucky-Numbers-in-a-Matrix/README.md)
 - [1382. Balance a Binary Search Tree](./leetcode/1382-Balance-a-Binary-Search-Tree/README.md)
 - [1395. Count Number of Teams](./leetcode/1395-Count-Number-of-Teams/README.md)
+- [1460. Make Two Arrays Equal by Reversing Subarrays](./leetcode/1460-Make-Two-Arrays-Equal-by-Reversing-Subarrays/README.md)
 - [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./leetcode/1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit/README.md)
 - [1448. Count Good Nodes in Binary Tree](./leetcode/1448-Count-Good-Nodes-in-Binary-Tree/README.md)
 - [1466. Reorder Routes to Make All Paths Lead to the City Zero](./leetcode/1466-Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero/README.md)
