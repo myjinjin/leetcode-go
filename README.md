@@ -179,6 +179,7 @@
 - [1780. Check if Number is a Sum of Powers of Three](./leetcode/1780-Check-if-Number-is-a-Sum-of-Powers-of-Three/README.md)
 - [1791. Find Center of Star Graph](./leetcode/1791-Find-Center-of-Star-Graph/README.md)
 - [1823. Find the Winner of the Circular Game](./leetcode/1823-Find-the-Winner-of-the-Circular-Game/README.md)
+- [1871. Jump Game VII](./leetcode/1871-Jump-Game-VII/README.md)
 - [1922. Count Good Numbers](./leetcode/1922-Count-Good-Numbers/README.md)
 - [1926. Nearest Exit from Entrance in Maze](./leetcode/1926-Nearest-Exit-from-Entrance-in-Maze/README.md)
 - [1954. Minimum Garden Perimeter to Collect Enough Apples](./leetcode/1954-Minimum-Garden-Perimeter-to-Collect-Enough-Apples/README.md)
