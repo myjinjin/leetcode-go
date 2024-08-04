@@ -177,6 +177,7 @@
 - [1653. Minimum Deletions to Make String Balanced](./leetcode/1653-Minimum-Deletions-to-Make-String-Balanced/README.md)
 - [1657. Determine if Two Strings Are Close](./leetcode/1657-Determine-if-Two-Strings-Are-Close/README.md)
 - [1717. Maximum Score From Removing Substrings](./leetcode/1717-Maximum-Score-From-Removing-Substrings/README.md)
+- [1774. Closest Dessert Cost](./leetcode/1774-Closest-Dessert-Cost/README.md)
 - [1780. Check if Number is a Sum of Powers of Three](./leetcode/1780-Check-if-Number-is-a-Sum-of-Powers-of-Three/README.md)
 - [1791. Find Center of Star Graph](./leetcode/1791-Find-Center-of-Star-Graph/README.md)
 - [1823. Find the Winner of the Circular Game](./leetcode/1823-Find-the-Winner-of-the-Circular-Game/README.md)
