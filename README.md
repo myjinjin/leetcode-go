@@ -212,6 +212,7 @@
 - [2582. Pass the Pillow](./leetcode/2582-Pass-the-Pillow/README.md)
 - [2658. Maximum Number of Fish in a Grid](./leetcode/2658-Maximum-Number-of-Fish-in-a-Grid/README.md)
 - [2678. Number of Senior Citizens](./leetcode/2678-Number-of-Senior-Citizens/README.md)
+- [2712. Minimum Cost to Make All Characters Equal](./leetcode/2712-Minimum-Cost-to-Make-All-Characters-Equal/README.md)
 - [2938. Separate Black and White Balls](./leetcode/2938-Separate-Black-and-White-Balls/README.md)
 - [2971. Find Polygon With the Largest Perimeter](./leetcode/2971-Find-Polygon-With-the-Largest-Perimeter/README.md)
 - [3080. Mark Elements on Array by Performing Queries](./leetcode/3080-Mark-Elements-on-Array-by-Performing-Queries/README.md)
