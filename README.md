@@ -216,5 +216,6 @@
 - [2980. Check if Bitwise OR Has Trailing Zeros](./leetcode/2980-Check-if-Bitwise-OR-Has-Trailing-Zeros/README.md)
 - [2938. Separate Black and White Balls](./leetcode/2938-Separate-Black-and-White-Balls/README.md)
 - [2971. Find Polygon With the Largest Perimeter](./leetcode/2971-Find-Polygon-With-the-Largest-Perimeter/README.md)
+- [3016. Minimum Number of Pushes to Type Word II](./leetcode/3016-Minimum-Number-of-Pushes-to-Type-Word-II/README.md)
 - [3080. Mark Elements on Array by Performing Queries](./leetcode/3080-Mark-Elements-on-Array-by-Performing-Queries/README.md)
 - [3148. Maximum Difference Score in a Grid](./leetcode/3148-Maximum-Difference-Score-in-a-Grid/README.md)
