@@ -123,6 +123,7 @@
 - [739. Daily Temperatures](./leetcode/739-Daily-Temperatures/README.md)
 - [744. Find Smallest Letter Greater Than Target](./leetcode/744-Find-Smallest-Letter-Greater-Than-Target/README.md)
 - [746. Min Cost Climbing Stairs](./leetcode/746-Min-Cost-Climbing-Stairs/README.md)
+- [756. Pyramid Transition Matrix](./leetcode/756-Pyramid-Transition-Matrix/README.md)
 - [763. Partition Labels](./leetcode/763-Partition-Labels/README.md)
 - [790. Domino and Tromino Tiling](./leetcode/790-Domino-and-Tromino-Tiling/README.md)
 - [811. Subdomain Visit Count](./leetcode/811-Subdomain-Visit-Count/README.md)
