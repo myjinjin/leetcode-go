@@ -129,6 +129,7 @@
 - [811. Subdomain Visit Count](./leetcode/811-Subdomain-Visit-Count/README.md)
 - [822. Card Flipping Game](./leetcode/822-Card-Flipping-Game/README.md)
 - [826. Most Profit Assigning Work](./leetcode/826-Most-Profit-Assigning-Work/README.md)
+- [840. Magic Squares In Grid](./leetcode/840-Magic-Squares-In-Grid/README.md)
 - [841. Keys and Rooms](./leetcode/841-Keys-and-Rooms/README.md)
 - [846. Hand of Straights](./leetcode/846-Hand-of-Straights/README.md)
 - [852. Peak Index in a Mountain Array](./leetcode/852-Peak-Index-in-a-Mountain-Array/README.md)
