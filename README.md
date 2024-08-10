@@ -62,6 +62,7 @@
 - [155. Min Stack](./leetcode/155-Min-Stack/README.md)
 - [160. Intersection of Two Linked Lists](./leetcode/160-Intersection-of-Two-Linked-Lists/README.md)
 - [162. Find Peak Element](./leetcode/162-Find-Peak-Element/README.md)
+- [164. Maximum Gap](./leetcode/164-Maximum-Gap/README.md)
 - [169. Majority Element](./leetcode/169-Majority-Element/README.md)
 - [189. Rotate Array](./leetcode/189-Rotate-Array/README.md)
 - [198. House Robber](./leetcode/198-House-Robber/README.md)
