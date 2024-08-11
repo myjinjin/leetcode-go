@@ -183,6 +183,7 @@
 - [1539. Kth Missing Positive Number](./leetcode/1539-Kth-Missing-Positive-Number/README.md)
 - [1550. Three Consecutive Odds](./leetcode/1550-Three-Consecutive-Odds/README.md)
 - [1552. Magnetic Force Between Two Balls](./leetcode/1552-Magnetic-Force-Between-Two-Balls/README.md)
+- [1568. Minimum Number of Days to Disconnect Island](./leetcode/1568-Minimum-Number-of-Days-to-Disconnect-Island/README.md)
 - [1605. Find Valid Matrix Given Row and Column Sums](./leetcode/1605-Find-Valid-Matrix-Given-Row-and-Column-Sums/README.md)
 - [1636. Sort Array by Increasing Frequency](./leetcode/1636-Sort-Array-by-Increasing-Frequency/README.md)
 - [1653. Minimum Deletions to Make String Balanced](./leetcode/1653-Minimum-Deletions-to-Make-String-Balanced/README.md)
