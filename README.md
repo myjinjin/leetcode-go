@@ -233,3 +233,4 @@
 - [3016. Minimum Number of Pushes to Type Word II](./leetcode/3016-Minimum-Number-of-Pushes-to-Type-Word-II/README.md)
 - [3080. Mark Elements on Array by Performing Queries](./leetcode/3080-Mark-Elements-on-Array-by-Performing-Queries/README.md)
 - [3148. Maximum Difference Score in a Grid](./leetcode/3148-Maximum-Difference-Score-in-a-Grid/README.md)
+- [3186. Maximum Total Damage With Spell Casting](./leetcode/3186-Maximum-Total-Damage-With-Spell-Casting/README.md)
