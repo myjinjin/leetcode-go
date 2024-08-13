@@ -19,6 +19,7 @@
 - [34. Find First and Last Position of Element in Sorted Array](./leetcode/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array/READMD.md)
 - [35. Search Insert Position](./leetcode/35-Search-Insert-Position/README.md)
 - [39. Combination Sum](./leetcode/39-Combination-Sum/README.md)
+- [40. Combination Sum II](./leetcode/40-Combination-Sum-II/README.md)
 - [45. Jump Game II](./leetcode/45-Jump-Game-II/README.md)
 - [46. Permutations](./leetcode/46-Permutations/README.md)
 - [48. Rotate Image](./leetcode/48-Rotate-Image/README.md)
