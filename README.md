@@ -138,6 +138,7 @@
 - [841. Keys and Rooms](./leetcode/841-Keys-and-Rooms/README.md)
 - [846. Hand of Straights](./leetcode/846-Hand-of-Straights/README.md)
 - [852. Peak Index in a Mountain Array](./leetcode/852-Peak-Index-in-a-Mountain-Array/README.md)
+- [860. Lemonade Change](./leetcode/860-Lemonade-Change/README.md)
 - [872. Leaf-Similar Trees](./leetcode/872-Leaf-Similar-Trees/README.md)
 - [875. Koko Eating Bananas](./leetcode/875-Koko-Eating-Bananas/README.md)
 - [885. Spiral Matrix III](./leetcode/885-Spiral-Matrix-III/README.md)
