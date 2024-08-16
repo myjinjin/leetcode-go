@@ -211,6 +211,7 @@
 - [2130. Maximum Twin Sum of a Linked List](./leetcode/2130-Maximum-Twin-Sum-of-a-Linked-List/README.md)
 - [2134. Minimum Swaps to Group All 1's Together II](./leetcode/2134-Minimum-Swaps-to-Group-All-1s-Together-II/README.md)
 - [2181. Merge Nodes in Between Zeros](./leetcode/2181-Merge-Nodes-in-Between-Zeros/README.md)
+- [2186. Minimum Number of Steps to Make Two Strings Anagram II](./leetcode/2186-Minimum-Number-of-Steps-to-Make-Two-Strings-Anagram-II/README.md)
 - [2191. Sort the Jumbled Numbers](./leetcode/2191-Sort-the-Jumbled-Numbers/README.md)
 - [2192. All Ancestors of a Node in a Directed Acyclic Graph](./leetcode/2192-All-Ancestors-of-a-Node-in-a-Directed-Acyclic-Graph/README.md)
 - [2196. Create Binary Tree From Descriptions](./leetcode/2196-Create-Binary-Tree-From-Descriptions/README.md)
