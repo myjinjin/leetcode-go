@@ -227,6 +227,7 @@
 - [2555. Maximize Win From Two Segments](./leetcode/2555-Maximize-Win-From-Two-Segments/README.md)
 - [2575. Find the Divisibility Array of a String](./leetcode/2575-Find-the-Divisibility-Array-of-a-String/README.md)
 - [2582. Pass the Pillow](./leetcode/2582-Pass-the-Pillow/README.md)
+- [2645. Minimum Additions to Make Valid String](./leetcode/2645-Minimum-Additions-to-Make-Valid-String/README.md)
 - [2658. Maximum Number of Fish in a Grid](./leetcode/2658-Maximum-Number-of-Fish-in-a-Grid/README.md)
 - [2678. Number of Senior Citizens](./leetcode/2678-Number-of-Senior-Citizens/README.md)
 - [2712. Minimum Cost to Make All Characters Equal](./leetcode/2712-Minimum-Cost-to-Make-All-Characters-Equal/README.md)
