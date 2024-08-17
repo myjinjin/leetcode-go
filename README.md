@@ -145,6 +145,7 @@
 - [885. Spiral Matrix III](./leetcode/885-Spiral-Matrix-III/README.md)
 - [901. Online Stock Span](./leetcode/901-Online-Stock-Span/README.md)
 - [912. Sort an Array](./leetcode/912-Sort-an-Array/README.md)
+- [915. Partition Array into Disjoint Intervals](./leetcode/915-Partition-Array-into-Disjoint-Intervals/README.md)
 - [933. Number of Recent Calls](./leetcode/933-Number-of-Recent-Calls/README.md)
 - [945. Minimum Increment to Make Array Unique](./leetcode/945-Minimum-Increment-to-Make-Array-Unique/README.md)
 - [959. Regions Cut By Slashes](./leetcode/959-Regions-Cut-By-Slashes/README.md)
