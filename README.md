@@ -228,6 +228,7 @@
 - [2486. Append Characters to String to Make Subsequence](./leetcode/2486-Append-Characters-to-String-to-Make-Subsequence/README.md)
 - [2487. Remove Nodes From Linked List](./leetcode/2487-Remove-Nodes-From-Linked-List/README.md)
 - [2542. Maximum Subsequence Score](./leetcode/2542-Maximum-Subsequence-Score/README.md)
+- [2546. Apply Bitwise Operations to Make Strings Equal](./leetcode/2546-Apply-Bitwise-Operations-to-Make-Strings-Equal/README.md)
 - [2555. Maximize Win From Two Segments](./leetcode/2555-Maximize-Win-From-Two-Segments/README.md)
 - [2575. Find the Divisibility Array of a String](./leetcode/2575-Find-the-Divisibility-Array-of-a-String/README.md)
 - [2582. Pass the Pillow](./leetcode/2582-Pass-the-Pillow/README.md)
