@@ -120,6 +120,7 @@
 - [633. Sum of Square Numbers](./leetcode/633-Sum-of-Square-Numbers/README.md)
 - [648. Replace Words](./leetcode/648-Replace-Words/README.md)
 - [649. Dota2 Senate](./leetcode/649-Dota2-Senate/README.md)
+- [650. 2 Keys Keyboard](./leetcode/650-2-Keys-Keyboard/README.md)
 - [658. Find K Closest Elements](./leetcode/658-Find-K-Closest-Elements/README.md)
 - [700. Search in a Binary Search Tree](./leetcode/700-Search-in-a-Binary-Search-Tree/README.md)
 - [703. Kth Largest Element in a Stream](./leetcode/703-Kth-Largest-Element-in-a-Stream/README.md)
