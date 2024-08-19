@@ -155,6 +155,7 @@
 - [978. Longest Turbulent Subarray](./leetcode/978-Longest-Turbulent-Subarray/README.md)
 - [981. Time Based Key-Value Store](./leetcode/981-Time-Based-Key-Value-Store/README.md)
 - [994. Rotting Oranges](./leetcode/994-Rotting-Oranges/README.md)
+- [998. Maximum Binary Tree II](./leetcode/998-Maximum-Binary-Tree-II/README.md)
 - [1002. Find Common Characters](./leetcode/1002-Find-Common-Characters/README.md)
 - [1023. Camelcase Matching](./leetcode/1023-Camelcase-Matching/README.md)
 - [1031. Maximum Sum of Two Non-Overlapping Subarrays](./leetcode/1031-Maximum-Sum-of-Two-Non-Overlapping-Subarrays/README.md)
