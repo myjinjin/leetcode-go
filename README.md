@@ -166,6 +166,7 @@
 - [1110. Delete Nodes And Return Forest](./leetcode/1110-Delete-Nodes-And-Return-Forest/README.md)
 - [1122. Relative Sort Array](./leetcode/1122-Relative-Sort-Array/README.md)
 - [1137. N-th Tribonacci Number](./leetcode/1137-N-th-Tribonacci-Number/README.md)
+- [1140. Stone Game II](./leetcode/1140-Stone-Game-II/README.md)
 - [1143. Longest Common Subsequence](./leetcode/1143-Longest-Common-Subsequence/README.md)
 - [1146. Snapshot Array](./leetcode/1146-Snapshot-Array/README.md)
 - [1161. Maximum Level Sum of a Binary Tree](./leetcode/1161-Maximum-Level-Sum-of-a-Binary-Tree/README.md)
