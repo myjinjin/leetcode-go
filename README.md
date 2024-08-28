@@ -213,6 +213,7 @@
 - [1791. Find Center of Star Graph](./leetcode/1791-Find-Center-of-Star-Graph/README.md)
 - [1823. Find the Winner of the Circular Game](./leetcode/1823-Find-the-Winner-of-the-Circular-Game/README.md)
 - [1871. Jump Game VII](./leetcode/1871-Jump-Game-VII/README.md)
+- [1905. Count Sub Islands](./leetcode/1905-Count-Sub-Islands/README.md)
 - [1922. Count Good Numbers](./leetcode/1922-Count-Good-Numbers/README.md)
 - [1926. Nearest Exit from Entrance in Maze](./leetcode/1926-Nearest-Exit-from-Entrance-in-Maze/README.md)
 - [1937. Maximum Number of Points with Cost](./leetcode/1937-Maximum-Number-of-Points-with-Cost/README.md)
