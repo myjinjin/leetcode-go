@@ -220,6 +220,7 @@
 - [1937. Maximum Number of Points with Cost](./leetcode/1937-Maximum-Number-of-Points-with-Cost/README.md)
 - [1954. Minimum Garden Perimeter to Collect Enough Apples](./leetcode/1954-Minimum-Garden-Perimeter-to-Collect-Enough-Apples/README.md)
 - [1993. Operations on Tree](./leetcode/1993-Operations-on-Tree/README.md)
+- [2022. Convert 1D Array Into 2D Array](./leetcode/2022-Convert-1D-Array-Into-2D-Array/README.md)
 - [2037. Minimum Number of Moves to Seat Everyone](./leetcode/2037-Minimum-Number-of-Moves-to-Seat-Everyone/README.md)
 - [2053. Kth Distinct String in an Array](./leetcode/2053-Kth-Distinct-String-in-an-Array/README.md)
 - [2095. Delete the Middle Node of a Linked List](./leetcode/2095-Delete-the-Middle-Node-of-a-Linked-List/README.md)
