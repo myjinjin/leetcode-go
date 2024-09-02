@@ -219,6 +219,7 @@
 - [1922. Count Good Numbers](./leetcode/1922-Count-Good-Numbers/README.md)
 - [1926. Nearest Exit from Entrance in Maze](./leetcode/1926-Nearest-Exit-from-Entrance-in-Maze/README.md)
 - [1937. Maximum Number of Points with Cost](./leetcode/1937-Maximum-Number-of-Points-with-Cost/README.md)
+- [1946. Largest Number After Mutating Substring](./leetcode/1946-Largest-Number-After-Mutating-Substring/README.md)
 - [1954. Minimum Garden Perimeter to Collect Enough Apples](./leetcode/1954-Minimum-Garden-Perimeter-to-Collect-Enough-Apples/README.md)
 - [1993. Operations on Tree](./leetcode/1993-Operations-on-Tree/README.md)
 - [2022. Convert 1D Array Into 2D Array](./leetcode/2022-Convert-1D-Array-Into-2D-Array/README.md)
