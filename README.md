@@ -142,6 +142,7 @@
 - [790. Domino and Tromino Tiling](./leetcode/790-Domino-and-Tromino-Tiling/README.md)
 - [811. Subdomain Visit Count](./leetcode/811-Subdomain-Visit-Count/README.md)
 - [822. Card Flipping Game](./leetcode/822-Card-Flipping-Game/README.md)
+- [823. Binary Trees With Factors](./leetcode/823-Binary-Trees-With-Factors/README.md)
 - [826. Most Profit Assigning Work](./leetcode/826-Most-Profit-Assigning-Work/README.md)
 - [840. Magic Squares In Grid](./leetcode/840-Magic-Squares-In-Grid/README.md)
 - [841. Keys and Rooms](./leetcode/841-Keys-and-Rooms/README.md)
