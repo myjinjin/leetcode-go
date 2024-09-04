@@ -150,6 +150,7 @@
 - [852. Peak Index in a Mountain Array](./leetcode/852-Peak-Index-in-a-Mountain-Array/README.md)
 - [860. Lemonade Change](./leetcode/860-Lemonade-Change/README.md)
 - [872. Leaf-Similar Trees](./leetcode/872-Leaf-Similar-Trees/README.md)
+- [874. Walking Robot Simulation](./leetcode/874-Walking-Robot-Simulation/README.md)
 - [875. Koko Eating Bananas](./leetcode/875-Koko-Eating-Bananas/README.md)
 - [885. Spiral Matrix III](./leetcode/885-Spiral-Matrix-III/README.md)
 - [901. Online Stock Span](./leetcode/901-Online-Stock-Span/README.md)
