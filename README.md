@@ -271,3 +271,4 @@
 - [3148. Maximum Difference Score in a Grid](./leetcode/3148-Maximum-Difference-Score-in-a-Grid/README.md)
 - [3168. Minimum Number of Chairs in a Waiting Room](./leetcode/3168-Minimum-Number-of-Chairs-in-a-Waiting-Room/README.md)
 - [3186. Maximum Total Damage With Spell Casting](./leetcode/3186-Maximum-Total-Damage-With-Spell-Casting/README.md)
+- [3217. Delete Nodes From Linked List Present in Array](./leetcode/3217-Delete-Nodes-From-Linked-List-Present-in-Array/README.md)
