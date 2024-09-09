@@ -244,6 +244,7 @@
 - [2284. Sender With Largest Word Count](./leetcode/2284-Sender-With-Largest-Word-Count/README.md)
 - [2285. Maximum Total Importance of Roads](./leetcode/2285-Maximum-Total-Importance-of-Roads/README.md)
 - [2300. Successful Pairs of Spells and Potions](./leetcode/2300-Successful-Pairs-of-Spells-and-Potions/README.md)
+- [2326. Spiral Matrix IV](./leetcode/2326-Spiral-Matrix-IV/README.md)
 - [2336. Smallest Number in Infinite Set](./leetcode/2336-Smallest-Number-in-Infinite-Set/README.md)
 - [2352. Equal Row and Column Pairs](./leetcode/2352-Equal-Row-and-Column-Pairs/README.md)
 - [2390. Removing Stars From a String](./leetcode/2390-Removing-Stars-From-a-String/README.md)
