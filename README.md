@@ -264,6 +264,7 @@
 - [2658. Maximum Number of Fish in a Grid](./leetcode/2658-Maximum-Number-of-Fish-in-a-Grid/README.md)
 - [2678. Number of Senior Citizens](./leetcode/2678-Number-of-Senior-Citizens/README.md)
 - [2712. Minimum Cost to Make All Characters Equal](./leetcode/2712-Minimum-Cost-to-Make-All-Characters-Equal/README.md)
+- [2807. Insert Greatest Common Divisors in Linked List](./leetcode/2807-Insert-Greatest-Common-Divisors-in-Linked-List/README.md)
 - [2895. Minimum Processing Time](./leetcode/2895-Minimum-Processing-Time/README.md)
 - [2939. Maximum Xor Product](./leetcode/2939-Maximum-Xor-Product/README.md)
 - [2980. Check if Bitwise OR Has Trailing Zeros](./leetcode/2980-Check-if-Bitwise-OR-Has-Trailing-Zeros/README.md)
