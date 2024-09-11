@@ -241,6 +241,7 @@
 - [2192. All Ancestors of a Node in a Directed Acyclic Graph](./leetcode/2192-All-Ancestors-of-a-Node-in-a-Directed-Acyclic-Graph/README.md)
 - [2196. Create Binary Tree From Descriptions](./leetcode/2196-Create-Binary-Tree-From-Descriptions/README.md)
 - [2211. Count Collisions on a Road](./leetcode/2211-Count-Collisions-on-a-Road/README.md)
+- [2220. Minimum Bit Flips to Convert Number](./leetcode/2220-Minimum-Bit-Flips-to-Convert-Number/README.md)
 - [2284. Sender With Largest Word Count](./leetcode/2284-Sender-With-Largest-Word-Count/README.md)
 - [2285. Maximum Total Importance of Roads](./leetcode/2285-Maximum-Total-Importance-of-Roads/README.md)
 - [2300. Successful Pairs of Spells and Potions](./leetcode/2300-Successful-Pairs-of-Spells-and-Potions/README.md)
