@@ -188,6 +188,7 @@
 - [1351. Count Negative Numbers in a Sorted Matrix](./leetcode/1351-Count-Negative-Numbers-in-a-Sorted-Matrix/README.md)
 - [1361. Validate Binary Tree Nodes](./leetcode/1361-Validate-Binary-Tree-Nodes/README.md)
 - [1367. Linked List in Binary Tree](./leetcode/1367-Linked-List-in-Binary-Tree/README.md)
+- [1371. Find the Longest Substring Containing Vowels in Even Counts](./leetcode/1371-Find-the-Longest-Substring-Containing-Vowels-in-Even-Counts/README.md)
 - [1372. Longest ZigZag Path in a Binary Tree](./leetcode/1372-Longest-ZigZag-Path-in-a-Binary-Tree/README.md)
 - [1380. Lucky Numbers in a Matrix](./leetcode/1380-Lucky-Numbers-in-a-Matrix/README.md)
 - [1382. Balance a Binary Search Tree](./leetcode/1382-Balance-a-Binary-Search-Tree/README.md)
