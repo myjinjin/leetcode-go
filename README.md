@@ -101,6 +101,7 @@
 - [365. Water and Jug Problem](./leetcode/365-Water-and-Jug-Problem/README.md)
 - [367. Valid Perfect Square](./leetcode/367-Valid-Perfect-Square/README.md)
 - [374. Guess Number Higher or Lower](./leetcode/374-Guess-Number-Higher-or-Lower/README.md)
+- [386. Lexicographical Numbers](./leetcode/386-Lexicographical-Numbers/README.md)
 - [390. Elimination Game](./leetcode/390-Elimination-Game/README.md)
 - [394. Decode String](./leetcode/394-Decode-String/README.md)
 - [399. Evaluate Division](./leetcode/399-Evaluate-Division/README.md)
