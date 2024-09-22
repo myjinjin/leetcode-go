@@ -111,6 +111,7 @@
 - [436. Find Right Interval](./leetcode/436-Find-Right-Interval/README.md)
 - [437. Path Sum III](./leetcode/437-Path-Sum-III/README.md)
 - [438. Find All Anagrams in a String](./leetcode/438-Find-All-Anagrams-in-a-String/README.md)
+- [440. K-th Smallest in Lexicographical Order](./leetcode/440-K-th-Smallest-in-Lexicographical-Order/README.md)
 - [441. Arranging Coins](./leetcode/441-Arranging-Coins/README.md)
 - [450. Delete Node in a BST](./leetcode/450-Delete-Node-in-a-BST/README.md)
 - [452. Minimum Number of Arrows to Burst Balloons](./leetcode/452-Minimum-Number-of-Arrows-to-Burst-Balloons/README.md)
