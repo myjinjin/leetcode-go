@@ -261,6 +261,7 @@
 - [2390. Removing Stars From a String](./leetcode/2390-Removing-Stars-From-a-String/README.md)
 - [2392. Build a Matrix With Conditions](./leetcode/2392-Build-a-Matrix-With-Conditions/README.md)
 - [2401. Longest Nice Subarray](./leetcode/2401-Longest-Nice-Subarray/README.md)
+- [2416. Sum of Prefix Scores of Strings](./leetcode/2416-Sum-of-Prefix-Scores-of-Strings/README.md)
 - [2418. Sort the People](./leetcode/2418-Sort-the-People/README.md)
 - [2419. Longest Subarray With Maximum Bitwise AND](./leetcode/2419-Longest-Subarray-With-Maximum-Bitwise-AND/README.md)
 - [2456. Most Popular Video Creator](./leetcode/2456-Most-Popular-Video-Creator/README.md)
