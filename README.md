@@ -107,6 +107,7 @@
 - [399. Evaluate Division](./leetcode/399-Evaluate-Division/README.md)
 - [409. Longest Palindrome](./leetcode/409-Longest-Palindrome/README.md)
 - [416. Partition Equal Subset Sum](./leetcode/416-Partition-Equal-Subset-Sum/README.md)
+- [434. Number of Segments in a String](./leetcode/434-Number-of-Segments-in-a-String/README.md)
 - [435. Non-overlapping Intervals](./leetcode/435-Non-overlapping-Intervals/README.md)
 - [436. Find Right Interval](./leetcode/436-Find-Right-Interval/README.md)
 - [437. Path Sum III](./leetcode/437-Path-Sum-III/README.md)
