@@ -196,6 +196,7 @@
 - [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](./leetcode/1292-Maximum-Side-Length-of-a-Square-with-Sum-Less-than-or-Equal-to-Threshold/README.md)
 - [1310. XOR Queries of a Subarray](./leetcode/1310-XOR-Queries-of-a-Subarray/README.md)
 - [1318. Minimum Flips to Make a OR b Equal to c](./leetcode/1318-Minimum-Flips-to-Make-a-OR-b-Equal-to-c/README.md)
+- [1331. Rank Transform of an Array](./leetcode/1331-Rank-Transform-of-an-Array/README.md)
 - [1351. Count Negative Numbers in a Sorted Matrix](./leetcode/1351-Count-Negative-Numbers-in-a-Sorted-Matrix/README.md)
 - [1361. Validate Binary Tree Nodes](./leetcode/1361-Validate-Binary-Tree-Nodes/README.md)
 - [1367. Linked List in Binary Tree](./leetcode/1367-Linked-List-in-Binary-Tree/README.md)
