@@ -234,6 +234,7 @@
 - [1774. Closest Dessert Cost](./leetcode/1774-Closest-Dessert-Cost/README.md)
 - [1780. Check if Number is a Sum of Powers of Three](./leetcode/1780-Check-if-Number-is-a-Sum-of-Powers-of-Three/README.md)
 - [1791. Find Center of Star Graph](./leetcode/1791-Find-Center-of-Star-Graph/README.md)
+- [1813. Sentence Similarity III](./leetcode/1813-Sentence-Similarity-III/README.md)
 - [1823. Find the Winner of the Circular Game](./leetcode/1823-Find-the-Winner-of-the-Circular-Game/README.md)
 - [1871. Jump Game VII](./leetcode/1871-Jump-Game-VII/README.md)
 - [1894. Find the Student that Will Replace the Chalk](./leetcode/1894-Find-the-Student-that-Will-Replace-the-Chalk/README.md)
