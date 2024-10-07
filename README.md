@@ -286,6 +286,7 @@
 - [2645. Minimum Additions to Make Valid String](./leetcode/2645-Minimum-Additions-to-Make-Valid-String/README.md)
 - [2658. Maximum Number of Fish in a Grid](./leetcode/2658-Maximum-Number-of-Fish-in-a-Grid/README.md)
 - [2678. Number of Senior Citizens](./leetcode/2678-Number-of-Senior-Citizens/README.md)
+- [2696. Minimum String Length After Removing Substrings](./leetcode/2696-Minimum-String-Length-After-Removing-Substrings/README.md)
 - [2707. Extra Characters in a String](./leetcode/2707-Extra-Characters-in-a-String/README.md)
 - [2712. Minimum Cost to Make All Characters Equal](./leetcode/2712-Minimum-Cost-to-Make-All-Characters-Equal/README.md)
 - [2807. Insert Greatest Common Divisors in Linked List](./leetcode/2807-Insert-Greatest-Common-Divisors-in-Linked-List/README.md)
