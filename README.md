@@ -245,6 +245,7 @@
 - [1945. Sum of Digits of String After Convert](./leetcode/1945-Sum-of-Digits-of-String-After-Convert/README.md)
 - [1946. Largest Number After Mutating Substring](./leetcode/1946-Largest-Number-After-Mutating-Substring/README.md)
 - [1954. Minimum Garden Perimeter to Collect Enough Apples](./leetcode/1954-Minimum-Garden-Perimeter-to-Collect-Enough-Apples/README.md)
+- [1963. Minimum Number of Swaps to Make the String Balanced](./leetcode/1963-Minimum-Number-of-Swaps-to-Make-the-String-Balanced/README.md)
 - [1993. Operations on Tree](./leetcode/1993-Operations-on-Tree/README.md)
 - [2022. Convert 1D Array Into 2D Array](./leetcode/2022-Convert-1D-Array-Into-2D-Array/README.md)
 - [2028. Find Missing Observations](./leetcode/2028-Find-Missing-Observations/README.md)
