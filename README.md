@@ -168,6 +168,7 @@
 - [901. Online Stock Span](./leetcode/901-Online-Stock-Span/README.md)
 - [912. Sort an Array](./leetcode/912-Sort-an-Array/README.md)
 - [915. Partition Array into Disjoint Intervals](./leetcode/915-Partition-Array-into-Disjoint-Intervals/README.md)
+- [921. Minimum Add to Make Parentheses Valid](./leetcode/921-Minimum-Add-to-Make-Parentheses-Valid/README.md)
 - [933. Number of Recent Calls](./leetcode/933-Number-of-Recent-Calls/README.md)
 - [945. Minimum Increment to Make Array Unique](./leetcode/945-Minimum-Increment-to-Make-Array-Unique/README.md)
 - [947. Most Stones Removed with Same Row or Column](./leetcode/947-Most-Stones-Removed-with-Same-Row-or-Column/README.md)
