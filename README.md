@@ -131,6 +131,7 @@
 - [624. Maximum Distance in Arrays](./leetcode/624-Maximum-Distance-in-Arrays/README.md)
 - [633. Sum of Square Numbers](./leetcode/633-Sum-of-Square-Numbers/README.md)
 - [641. Design Circular Deque](./leetcode/641-Design-Circular-Deque/README.md)
+- [645. Set Mismatch](./leetcode/645-Set-Mismatch/README.md)
 - [648. Replace Words](./leetcode/648-Replace-Words/README.md)
 - [649. Dota2 Senate](./leetcode/649-Dota2-Senate/README.md)
 - [650. 2 Keys Keyboard](./leetcode/650-2-Keys-Keyboard/README.md)
