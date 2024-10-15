@@ -299,6 +299,7 @@
 - [2807. Insert Greatest Common Divisors in Linked List](./leetcode/2807-Insert-Greatest-Common-Divisors-in-Linked-List/README.md)
 - [2895. Minimum Processing Time](./leetcode/2895-Minimum-Processing-Time/README.md)
 - [2939. Maximum Xor Product](./leetcode/2939-Maximum-Xor-Product/README.md)
+- [2942. Find Words Containing Character](./leetcode/2942-Find-Words-Containing-Character/README.md)
 - [2980. Check if Bitwise OR Has Trailing Zeros](./leetcode/2980-Check-if-Bitwise-OR-Has-Trailing-Zeros/README.md)
 - [2938. Separate Black and White Balls](./leetcode/2938-Separate-Black-and-White-Balls/README.md)
 - [2971. Find Polygon With the Largest Perimeter](./leetcode/2971-Find-Polygon-With-the-Largest-Perimeter/README.md)
