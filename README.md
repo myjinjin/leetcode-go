@@ -228,6 +228,7 @@
 - [1524. Number of Sub-arrays With Odd Sum](./leetcode/1524-Number-of-Sub-arrays-With-Odd-Sum/README.md)
 - [1530. Number of Good Leaf Nodes Pairs](./leetcode/1530-Number-of-Good-Leaf-Nodes-Pairs/README.md)
 - [1539. Kth Missing Positive Number](./leetcode/1539-Kth-Missing-Positive-Number/README.md)
+- [1545. Find Kth Bit in Nth Binary String](./leetcode/1545-Find-Kth-Bit-in-Nth-Binary-String/README.md)
 - [1550. Three Consecutive Odds](./leetcode/1550-Three-Consecutive-Odds/README.md)
 - [1552. Magnetic Force Between Two Balls](./leetcode/1552-Magnetic-Force-Between-Two-Balls/README.md)
 - [1568. Minimum Number of Days to Disconnect Island](./leetcode/1568-Minimum-Number-of-Days-to-Disconnect-Island/README.md)
