@@ -175,6 +175,7 @@
 - [933. Number of Recent Calls](./leetcode/933-Number-of-Recent-Calls/README.md)
 - [945. Minimum Increment to Make Array Unique](./leetcode/945-Minimum-Increment-to-Make-Array-Unique/README.md)
 - [947. Most Stones Removed with Same Row or Column](./leetcode/947-Most-Stones-Removed-with-Same-Row-or-Column/README.md)
+- [951. Flip Equivalent Binary Trees](./leetcode/951-Flip-Equivalent-Binary-Trees/README.md)
 - [959. Regions Cut By Slashes](./leetcode/959-Regions-Cut-By-Slashes/README.md)
 - [962. Maximum Width Ramp](./leetcode/962-Maximum-Width-Ramp/README.md)
 - [974. Subarray Sums Divisible by K](./leetcode/974-Subarray-Sums-Divisible-by-K/README.md)
