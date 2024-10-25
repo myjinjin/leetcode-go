@@ -199,6 +199,7 @@
 - [1146. Snapshot Array](./leetcode/1146-Snapshot-Array/README.md)
 - [1161. Maximum Level Sum of a Binary Tree](./leetcode/1161-Maximum-Level-Sum-of-a-Binary-Tree/README.md)
 - [1190. Reverse Substrings Between Each Pair of Parentheses](./leetcode/1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses/README.md)
+- [1233. Remove Sub-Folders from the Filesystem](./leetcode/1233-Remove-Sub-Folders-from-the-Filesystem/README.md)
 - [1248. Count Number of Nice Subarrays](./leetcode/1248-Count-Number-of-Nice-Subarrays/README.md)
 - [1268. Search Suggestions System](./leetcode/1268-Search-Suggestions-System/README.md)
 - [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](./leetcode/1292-Maximum-Side-Length-of-a-Square-with-Sum-Less-than-or-Equal-to-Threshold/README.md)
