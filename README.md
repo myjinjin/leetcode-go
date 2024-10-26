@@ -288,6 +288,7 @@
 - [2418. Sort the People](./leetcode/2418-Sort-the-People/README.md)
 - [2419. Longest Subarray With Maximum Bitwise AND](./leetcode/2419-Longest-Subarray-With-Maximum-Bitwise-AND/README.md)
 - [2456. Most Popular Video Creator](./leetcode/2456-Most-Popular-Video-Creator/README.md)
+- [2460. Apply Operations to an Array](./leetcode/2460-Apply-Operations-to-an-Array/README.md)
 - [2462. Total Cost to Hire K Workers](./leetcode/2462-Total-Cost-to-Hire-K-Workers/README.md)
 - [2486. Append Characters to String to Make Subsequence](./leetcode/2486-Append-Characters-to-String-to-Make-Subsequence/README.md)
 - [2487. Remove Nodes From Linked List](./leetcode/2487-Remove-Nodes-From-Linked-List/README.md)
